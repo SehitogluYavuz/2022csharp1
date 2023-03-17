@@ -8,7 +8,7 @@ namespace FunctionOpdracht1
         {
             //eerst even uit de static ontsnappen
             Program program = new Program();
-            
+              
             program.//roep hier de function Run aan
             program.//roep hier de function ShowThis aan
         }
